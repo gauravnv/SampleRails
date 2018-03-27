@@ -25,3 +25,5 @@
 /.ssh
 /.git
 /.bundle
+# Ignore uploaded test images.
+/public/uploads
